@@ -1,2 +1,2 @@
 # Nginx-and-Redis
-Docker Coompose
+Docker Compose
